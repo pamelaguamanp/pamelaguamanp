@@ -1,4 +1,4 @@
-### Hi there 👋, Hi I am Pamela
+### Hi 👋 I am Pamela
 
 Skills: JS / HTML / Python/R
 
