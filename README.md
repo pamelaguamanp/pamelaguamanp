@@ -1,8 +1,8 @@
 ### Hi 👋 I am Pamela
 
-Skills: JS / HTML / Python/R
+Skills: JS / HTML / Python/ R
 
-- 🔭 I’m currently working on my PhD thesis about suitability analysis for placing nature-based solutions (NbS) machine learning algorithms
+- 🔭 I’m currently working on my PhD thesis about suitability analysis for placing nature-based solutions (NbS) using machine learning algorithms
 - 🌱 working with Python, JS 
 - 🤔 I’m looking for help with GEE  
 - 💬 Ask me about everything related to geospatial technologies 
